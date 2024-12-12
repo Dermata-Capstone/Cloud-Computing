@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "37a9cf0b-b3d9-436d-aa1d-ec11a4a6ccbc",
+		"name": "CHATBOT",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "39624869"
+	},
+	"item": [
+		{
+			"name": "CHAT",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"text\": \"apa obat tidur?\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://chatdermata-444309.et.r.appspot.com/chat"
+			},
+			"response": []
+		},
+		{
+			"name": "END CHAT",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "http://127.0.0.1:8080/end_chat"
+			},
+			"response": []
+		}
+	]
+}
