@@ -1,4 +1,4 @@
-![alt text](https://github.com/Dermata-Capstone/Cloud-Computing/blob/main/image/LOGO.png?raw=true)
+
 DERMATA is an innovative platform designed to transform the skincare experience by offering personalized skin analysis and tailored skincare recommendations.
 
 
